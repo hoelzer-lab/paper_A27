@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="709.86761mm"
-   height="356.71021mm"
-   viewBox="0 0 709.86762 356.7102"
+   width="720.55865mm"
+   height="367.76288mm"
+   viewBox="0 0 720.55866 367.76287"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   sodipodi:docname="2021-04-25_A27_genome.svg"
+   sodipodi:docname="Figure_4_A27_genome.svg"
    inkscape:export-filename="/Users/martin/papers/2021_A27/2021-04-25_A27_genome.png"
    inkscape:export-xdpi="245.00903"
    inkscape:export-ydpi="245.00903">
@@ -76,6 +76,7 @@
 
 
 
+
 undefined<linearGradient
    inkscape:collect="always"
    xlink:href="#linearGradient5361"
@@ -121,8 +122,8 @@ undefined<linearGradient
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="1445.9916"
-     inkscape:cy="763.52804"
+     inkscape:cx="1039.9103"
+     inkscape:cy="836.25902"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -153,7 +154,14 @@ undefined<linearGradient
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(40.097726,15.891671)">
+     transform="translate(43.304958,19.098906)">
+    <rect
+       style="fill:#ffffff;stroke-width:0.170126;stroke-miterlimit:10"
+       id="rect17623"
+       width="720.55865"
+       height="367.76288"
+       x="-43.304958"
+       y="-19.098906" />
     <svg
        id="svg1488"
        viewBox="0 0 685.9801 6.3"
@@ -1634,7 +1642,7 @@ undefined<linearGradient
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DM Sans', Avenir, Helvetica, Arial, sans-serif;-inkscape-font-specification:'DM Sans, Avenir, Helvetica, Arial, sans-serif Bold'"
    id="tspan333" /></tspan></text>
     <path
-       style="fill:url(#linearGradient5363);fill-opacity:1;stroke:none;stroke-width:0.26458299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:url(#linearGradient5363);fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 480.82343,83.999998 48.767857,146.63809 H 535.60118 l 27.79236,-62.638092 h -82.72137 z"
        id="path5347"
        sodipodi:nodetypes="cccccc"
@@ -1642,7 +1650,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <path
-       style="fill:url(#linearGradient5373);fill-opacity:1;stroke:none;stroke-width:0.26458299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:url(#linearGradient5373);fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 563.39354,83.999998 -8.89356,62.638092 h 25.70238 l 1.25211,-62.638092 z"
        id="path5365"
        sodipodi:nodetypes="ccccc"
@@ -1650,7 +1658,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <path
-       style="fill:url(#linearGradient5391);fill-opacity:1;stroke:none;stroke-width:0.26458299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:url(#linearGradient5391);fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 602.4318,83.999998 -9.75622,62.638092 h 24.46755 L 606.66614,83.999998 Z"
        id="path5375"
        sodipodi:nodetypes="ccccc"
@@ -1658,7 +1666,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <path
-       style="fill:url(#linearGradient5401);fill-opacity:1;stroke:none;stroke-width:0.26458299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:url(#linearGradient5401);fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 617.59777,83.999998 12.87545,62.638092 h 21.54462 L 625.50482,83.999998 Z"
        id="path5393"
        sodipodi:nodetypes="ccccc"
@@ -1719,7 +1727,7 @@ undefined<linearGradient
            style="display:block"
            id="tspan353">F</tspan></tspan></text>
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="path5487"
        cx="56.461895"
        cy="228.35048"
@@ -1727,7 +1735,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5569"
        cx="56.461895"
        cy="266.5408"
@@ -1780,7 +1788,7 @@ undefined<linearGradient
          id="tspan372"
          style="font-size:7.05556px">92.2/72.7%</tspan></text>
     <circle
-       style="fill:#e15759;fill-opacity:1;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#e15759;fill-opacity:1;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5501"
        cx="565.87402"
        cy="228.35048"
@@ -1833,7 +1841,7 @@ undefined<linearGradient
          id="tspan388"><tspan
            id="tspan386">8.2%</tspan></tspan></text>
     <circle
-       style="fill:#edc949;fill-opacity:1;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#edc949;fill-opacity:1;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5503"
        cx="605.01538"
        cy="228.35048"
@@ -1886,7 +1894,7 @@ undefined<linearGradient
          id="tspan404"
          style="font-size:7.05556px">87.8/92.3%</tspan></text>
     <circle
-       style="fill:#8c564b;fill-opacity:1;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#8c564b;fill-opacity:1;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5507"
        cx="643.88715"
        cy="228.35048"
@@ -1949,7 +1957,7 @@ undefined<linearGradient
              id="tspan419">V</tspan></tspan></text>
     </g>
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5493"
        cx="252.50449"
        cy="228.35048"
@@ -1957,7 +1965,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5575"
        cx="252.50449"
        cy="266.5408"
@@ -1965,7 +1973,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5597"
        cx="252.50449"
        cy="301.53107"
@@ -2026,7 +2034,7 @@ undefined<linearGradient
            style="display:block"
            id="tspan439">Y</tspan></tspan></text>
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5495"
        cx="291.66977"
        cy="228.35048"
@@ -2034,7 +2042,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5577"
        cx="291.66977"
        cy="266.5408"
@@ -2042,7 +2050,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5599"
        cx="291.66977"
        cy="301.53107"
@@ -2105,7 +2113,7 @@ undefined<linearGradient
          id="tspan461"><tspan
            id="tspan459">99.1%</tspan></tspan></text>
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5497"
        cx="409.09229"
        cy="228.35048"
@@ -2113,7 +2121,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5601"
        cx="409.09229"
        cy="301.53107"
@@ -2174,7 +2182,7 @@ undefined<linearGradient
          id="tspan479"><tspan
            id="tspan477">99.0%</tspan></tspan></text>
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5489"
        cx="95.683853"
        cy="228.35048"
@@ -2182,7 +2190,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5593"
        cx="95.683853"
        cy="301.53107"
@@ -2190,7 +2198,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5615"
        cx="95.683853"
        cy="336.00769"
@@ -2251,7 +2259,7 @@ undefined<linearGradient
          id="tspan498"><tspan
            id="tspan496">99.4%</tspan></tspan></text>
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5491"
        cx="135.63483"
        cy="228.35048"
@@ -2259,7 +2267,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5573"
        cx="135.63483"
        cy="266.5408"
@@ -2267,7 +2275,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5595"
        cx="135.63483"
        cy="301.53107"
@@ -2275,7 +2283,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5617"
        cx="135.63483"
        cy="336.00769"
@@ -2336,7 +2344,7 @@ undefined<linearGradient
          id="tspan518"><tspan
            id="tspan516">100%</tspan></tspan></text>
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5499"
        cx="487.21246"
        cy="228.35048"
@@ -2344,7 +2352,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5581"
        cx="487.21246"
        cy="266.5408"
@@ -2352,7 +2360,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5603"
        cx="487.21246"
        cy="301.53107"
@@ -2360,7 +2368,7 @@ undefined<linearGradient
        inkscape:export-xdpi="215.02692"
        inkscape:export-ydpi="215.02692" />
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5625"
        cx="487.21246"
        cy="336.00769"
@@ -2419,7 +2427,7 @@ undefined<linearGradient
          id="tspan547"><tspan
            id="tspan545">0.14%</tspan></tspan></text>
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5661"
        cx="213.17752"
        cy="301.53107"
@@ -2479,7 +2487,7 @@ undefined<linearGradient
          id="tspan564"><tspan
            id="tspan562">D</tspan></tspan></text>
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5663"
        cx="173.99815"
        cy="301.53107"
@@ -2538,7 +2546,7 @@ undefined<linearGradient
          id="tspan581"><tspan
            id="tspan579">0.14%</tspan></tspan></text>
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5665"
        cx="331.53152"
        cy="301.53107"
@@ -2597,7 +2605,7 @@ undefined<linearGradient
          id="tspan598"><tspan
            id="tspan596">0.14%</tspan></tspan></text>
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5667"
        cx="369.91409"
        cy="301.53107"
@@ -2656,7 +2664,7 @@ undefined<linearGradient
          id="tspan615"><tspan
            id="tspan613">0.14%</tspan></tspan></text>
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5669"
        cx="448.34955"
        cy="301.53107"
@@ -2715,7 +2723,7 @@ undefined<linearGradient
          id="tspan632"><tspan
            id="tspan630">2.09%</tspan></tspan></text>
     <circle
-       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.25003099;stroke-miterlimit:2;stroke-opacity:0.8"
+       style="fill:#f38f2c;fill-opacity:0.8;stroke:none;stroke-width:0.250031;stroke-miterlimit:2;stroke-opacity:0.8"
        id="circle5671"
        cx="527.15942"
        cy="301.53107"
